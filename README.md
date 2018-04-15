@@ -6,12 +6,35 @@ Download der aktuellen Sourcen unter:
 https://www.rheinwerk-verlag.de/entwurfsmuster_3538/
 
 # Inhaltsverzeichnis
-## Datenmuster
-* Unit of Work
-* Identity Map
-* Pessimistic Lockdown
-* Row Data Gateway
-* Table Data Gateway
+## Erzeugungsmuster
+* AbstrakteFabrik / Abstract Factory
+* Erbauer / Builder
+* Fabrikmethode / Factory
+* Multiton
+* Prototyp
+* Singleton
+## Strukturmuster
+* Adapter / Wrapper
+* Bruecke / Bridge 
+* Dekorierer / Decorator
+* Fassade / Facade
+* Fliegengewicht / Flyweight
+* Kompositum / Composite
+* Proxy
+## Verhaltensmuster
+* Befehl / Command
+* Beobachter / Observer
+* Besucher / Visitor
+* Interceptor
+* Interpreter
+* Iterator
+* Memento
+* Schablonenmethode / Template method
+* Strategie / Policy
+* Vermittler / Mediator
+* Zustaendigkeitskette
+* Zustand
+* start
 ## Designprinzipien
 * Liskov
 * OpenClosedPrinciple
@@ -22,34 +45,11 @@ https://www.rheinwerk-verlag.de/entwurfsmuster_3538/
 * SortierteListenklasse
 * Unterklasse
 * Zwischenklasse
-## Erzeugungsmuster
-* AbstrakteFabrik
-* Erbauer
-* Fabrikmethode
-* Multiton
-* Prototyp
-* Singleton
+## Datenmuster
+* Unit of Work
+* Identity Map
+* Pessimistic Lockdown
+* Row Data Gateway
+* Table Data Gateway
 ## GuiMuster
 * MVC
-## Strukturmuster
-* Adapter
-* Bruecke
-* Dekorierer
-* Fassade
-* Fliegengewicht
-* Kompositum
-* Proxy
-## Verhaltensmuster
-* Befehl
-* Beobachter
-* Besucher
-* Interceptor
-* Interpreter
-* Iterator
-* Memento
-* Schablonenmethode
-* Strategie
-* Vermittler
-* Zustaendigkeitskette
-* Zustand
-* start
