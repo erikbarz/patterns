@@ -33,7 +33,7 @@ https://www.rheinwerk-verlag.de/entwurfsmuster_3538/
 * Strategie / Policy
 * Vermittler / Mediator
 * Zustaendigkeitskette
-* Zustand
+* Zustand / State
 * start
 ## Designprinzipien
 * Liskov
